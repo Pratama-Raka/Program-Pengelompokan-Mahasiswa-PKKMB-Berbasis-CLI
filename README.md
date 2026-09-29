@@ -41,7 +41,7 @@ Cek Python sudah terpasang dengan mengetik `py --version` (harus muncul nomor ve
 
 ## 2. Siapkan data
 
-Masukkan file data (Excel `.xlsx` atau CSV) ke folder program. Caranya, **masukkan file data** ke folder yang sama dengan file sourcecode program yang sudah didownload.
+Masukkan file data (Excel `.xlsx` atau CSV) ke folder program. Caranya, **drop atau salin file data** ke folder yang sama dengan file sourcecode program yang sudah didownload.
 
 > **Penting: kolom di data harus sesuai dengan yang dicari program.** Kalau kolomnya tidak ada atau kosong, program tetap jalan, tapi hasilnya jadi aneh (pemerataan tidak bekerja) tanpa ada error.
 
